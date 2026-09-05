@@ -3,7 +3,6 @@
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 Solved 2026-09-01 | <5 min | unaided
 Time O(n) / Space O(1)
-Notes: notes.md
 """
 
 

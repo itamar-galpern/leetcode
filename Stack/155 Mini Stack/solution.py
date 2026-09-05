@@ -3,7 +3,6 @@
 https://leetcode.com/problems/min-stack/
 Solved 2026-08-31 | <5 min | unaided
 Time O(1) complexity for all actions O(1) initalization
-Notes: notes.md
 """
 
 class MinStack:

@@ -3,7 +3,6 @@
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 Solved 2026-09-01 | <25 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 valid_operators = {"+": lambda x,y:y+x, "-": lambda x,y:y-x,

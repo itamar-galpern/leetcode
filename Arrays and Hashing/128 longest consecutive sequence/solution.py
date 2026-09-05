@@ -3,7 +3,6 @@
 https://leetcode.com/problems/longest-consecutive-sequence/
 Solved 2026-08-28 | <20 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 def longestConsecutive(nums: list[int]) -> int:

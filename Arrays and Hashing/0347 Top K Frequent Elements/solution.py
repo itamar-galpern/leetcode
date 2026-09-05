@@ -3,7 +3,6 @@
 https://leetcode.com/problems/top-k-frequent-elements/
 Solved 2026-08-28 | <10 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 def encode(strs: list[str]) -> str:

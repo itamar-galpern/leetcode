@@ -3,7 +3,6 @@
 https://leetcode.com/problems/group-anagrams/
 Solved 2026-08-28 | <5 min | unaided
 Time O(n*k*log(k)) / Space O(n*k) where n = len(strs) and k = max(len(word) for word in strs)
-Notes: notes.md
 """
 from collections import defaultdict
 

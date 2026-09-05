@@ -3,7 +3,6 @@
 https://leetcode.com/problems/3sum/
 Solved 2026-09-02 | <15 min | unaided
 Time O(n^2) / Space O(n^2)
-Notes: notes.md
 """
 
 

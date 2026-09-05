@@ -3,7 +3,6 @@
 https://leetcode.com/problems/contains-duplicate/
 Solved 2026-08-28 | <1 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 

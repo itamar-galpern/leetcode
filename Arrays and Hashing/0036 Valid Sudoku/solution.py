@@ -3,7 +3,6 @@
 https://leetcode.com/problems/valid-sudoku/
 Solved 2026-08-28 | <5 min | unaided
 Time O(1) / Space O(1) - The board size is fixed (9x9)
-Notes: notes.md
 """
 from collections import defaultdict
 

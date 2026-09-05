@@ -3,7 +3,6 @@
 https://leetcode.com/problems/daily-temperatures/
 Solved 2026-08-31 | <20 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 def dailyTemperatures(temperatures: list[int]) -> list[int]:

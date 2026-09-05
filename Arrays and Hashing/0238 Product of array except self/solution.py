@@ -3,7 +3,6 @@
 https://leetcode.com/problems/product-of-array-except-self/
 Solved 2026-08-28 | <15 min | unaided
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 

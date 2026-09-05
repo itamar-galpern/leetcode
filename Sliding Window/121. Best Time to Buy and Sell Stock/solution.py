@@ -3,7 +3,6 @@
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Solved 2026-09-05 | <10 min | unaided
 Time O(n) / Space O(1)
-Notes: notes.md
 """
 
 

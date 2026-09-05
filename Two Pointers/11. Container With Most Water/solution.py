@@ -3,7 +3,6 @@
 https://leetcode.com/problems/container-with-most-water/
 Solved 2026-09-05 | <10 min | unaided
 Time O(n) / Space O(1)
-Notes: notes.md
 """
 
 

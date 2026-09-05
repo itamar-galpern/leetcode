@@ -3,7 +3,6 @@
 https://leetcode.com/problems/valid-anagram/
 Solved 2026-08-28 | <3 min | unaided
 Time O(n) / Space O(1)
-Notes: notes.md
 """
 
 

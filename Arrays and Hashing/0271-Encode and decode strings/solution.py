@@ -3,7 +3,6 @@
 https://leetcode.com/problems/encode-and-decode-strings/
 Solved 2026-08-28 | <15 min | unaided logic ; syntax help on join/f-string
 Time O(n) / Space O(n)
-Notes: notes.md
 """
 
 def encode(strs: list[str]) -> str:
