@@ -26,8 +26,7 @@ class WordDictionary:
         if not word:
             return curr.word
         queue = deque([curr])
-        current_index = 0
-        for i, letter in enumerate(word):
+        for letter in word:
             if not queue:
                 return False
             for _ in range(len(queue)):
