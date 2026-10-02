@@ -6,10 +6,9 @@ class Solution:
             start, end = intervals[i]
             i += 1
             while i < len(intervals):
-                curr_s, curr_e = intervals[i]
-                if curr_s <= end:
-                    if curr_e > end:
-                        end = curr_e
+                next_start, next_end = intervals[i]
+                if next_start <= end:
+                    end = max(end, next_end)
                 else:
                     break
                 i+= 1
