@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/itamar-galpern/leetcode/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/itamar-galpern/leetcode/tree/master/0090-subsets-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
