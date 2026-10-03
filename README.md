@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/itamar-galpern/leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/itamar-galpern/leetcode/tree/master/0090-subsets-ii) |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -70,4 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/itamar-galpern/leetcode/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
