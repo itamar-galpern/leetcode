@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/itamar-galpern/leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/itamar-galpern/leetcode/tree/master/0090-subsets-ii) |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itamar-galpern/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/itamar-galpern/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itamar-galpern/leetcode/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
