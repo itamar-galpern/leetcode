@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itamar-galpern/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itamar-galpern/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/itamar-galpern/leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/itamar-galpern/leetcode/tree/master/0090-subsets-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
