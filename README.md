@@ -108,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/itamar-galpern/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/itamar-galpern/leetcode/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itamar-galpern/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/itamar-galpern/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/itamar-galpern/leetcode/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itamar-galpern/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -138,9 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/itamar-galpern/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itamar-galpern/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/itamar-galpern/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itamar-galpern/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
