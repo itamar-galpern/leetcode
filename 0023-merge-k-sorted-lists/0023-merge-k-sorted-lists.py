@@ -17,7 +17,6 @@ class Solution:
             current.next = minimal_node
             current = current.next
             candidate = minimal_node.next
-            minimal_node.next = None
             if candidate:
                 heapq.heappush(heap, (candidate.val, i, candidate))
         return head.next
