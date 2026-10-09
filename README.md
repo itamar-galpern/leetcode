@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/itamar-galpern/leetcode/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itamar-galpern/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/itamar-galpern/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/itamar-galpern/leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/itamar-galpern/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/itamar-galpern/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -153,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itamar-galpern/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
