@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/itamar-galpern/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/itamar-galpern/leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/itamar-galpern/leetcode/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/itamar-galpern/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/itamar-galpern/leetcode/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itamar-galpern/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itamar-galpern/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Longest Increasing Subsequence
 |  |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itamar-galpern/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
