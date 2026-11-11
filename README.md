@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itamar-galpern/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itamar-galpern/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/itamar-galpern/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/itamar-galpern/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0912-sort-an-array](https://github.com/itamar-galpern/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itamar-galpern/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/itamar-galpern/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Quicksort
 |  |
 | ------- |
