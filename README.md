@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itamar-galpern/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itamar-galpern/leetcode/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/itamar-galpern/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/itamar-galpern/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/itamar-galpern/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/itamar-galpern/leetcode/tree/master/0739-daily-temperatures) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/itamar-galpern/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/itamar-galpern/leetcode/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/itamar-galpern/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
